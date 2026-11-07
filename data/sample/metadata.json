@@ -1,0 +1,8 @@
+{
+  "dataset_version": "0.1.0-sample",
+  "sample": true,
+  "notice": "SAMPLE DATA. University and degree names are real, but cut-off scores, scholarship amounts and income thresholds are ILLUSTRATIVE and NOT OFFICIAL. Always check the university's and the awarding body's official publication.",
+  "latest_cut_off_year": 2025,
+  "score_scale": "Admission grade over 14 (PAU/EBAU: 10 access phase + up to 4 specific phase)",
+  "description": "Illustrative dataset modelled on the data domain of Franky (franky.es)."
+}

@@ -1,0 +1,4443 @@
+[
+  {
+    "id": "ucm-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "ucm",
+    "branch": "ciencias_salud",
+    "campus": "Madrid",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.316,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.505,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.496,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.573,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ucm-psicologia",
+    "name": "Grado en Psicología",
+    "university_id": "ucm",
+    "branch": "ciencias_salud",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.794,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.065,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.063,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.22,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "psicologo",
+      "mente",
+      "conducta",
+      "terapia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ucm-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "ucm",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.448,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.432,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.609,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.627,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ucm-periodismo",
+    "name": "Grado en Periodismo",
+    "university_id": "ucm",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.816,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.876,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.925,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.845,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "periodista",
+      "comunicacion",
+      "medios"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ucm-filosofia",
+    "name": "Grado en Filosofía",
+    "university_id": "ucm",
+    "branch": "artes_humanidades",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": true,
+    "cut_offs": [],
+    "keywords": [
+      "filosofo",
+      "pensamiento",
+      "etica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ucm-bellas-artes",
+    "name": "Grado en Bellas Artes",
+    "university_id": "ucm",
+    "branch": "artes_humanidades",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 7.433,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 7.615,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 7.846,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 7.88,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "arte",
+      "pintura",
+      "escultura",
+      "dibujo"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ucm-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "ucm",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.201,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.188,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.144,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.035,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ucm-historia-del-arte",
+    "name": "Grado en Historia del Arte",
+    "university_id": "ucm",
+    "branch": "artes_humanidades",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": true,
+    "cut_offs": [],
+    "keywords": [
+      "arte",
+      "museos",
+      "patrimonio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uam-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "uam",
+    "branch": "ciencias_salud",
+    "campus": "Madrid",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 13.482,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.554,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.684,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uam-biotecnologia",
+    "name": "Grado en Biotecnología",
+    "university_id": "uam",
+    "branch": "ciencias",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.166,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.21,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.48,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.644,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "genetica",
+      "biologia",
+      "laboratorio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uam-fisica",
+    "name": "Grado en Física",
+    "university_id": "uam",
+    "branch": "ciencias",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.213,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.315,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.379,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.632,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "fisico",
+      "astrofisica",
+      "particulas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uam-matematicas",
+    "name": "Grado en Matemáticas",
+    "university_id": "uam",
+    "branch": "ciencias",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.539,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.674,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.853,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.859,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "mates",
+      "algebra",
+      "estadistica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uam-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "uam",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.787,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.906,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.862,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.99,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uam-economia",
+    "name": "Grado en Economía",
+    "university_id": "uam",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.079,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.394,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.378,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.579,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "economista",
+      "finanzas",
+      "mercados"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uam-traduccion",
+    "name": "Grado en Traducción e Interpretación",
+    "university_id": "uam",
+    "branch": "artes_humanidades",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.286,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.179,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.076,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.876,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "traductor",
+      "interprete",
+      "idiomas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uc3m-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "uc3m",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Getafe",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.554,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.849,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.927,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.096,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uc3m-ingenieria-aeroespacial",
+    "name": "Grado en Ingeniería Aeroespacial",
+    "university_id": "uc3m",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Getafe",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.822,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.002,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.044,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.228,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "aviones",
+      "aeronautica",
+      "espacio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uc3m-ciencia-datos",
+    "name": "Grado en Ciencia e Ingeniería de Datos",
+    "university_id": "uc3m",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Getafe",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 11.996,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.035,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.044,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "datos",
+      "big data",
+      "inteligencia artificial",
+      "estadistica",
+      "programacion"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uc3m-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "uc3m",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Getafe",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.029,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.855,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.776,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.786,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uc3m-ade",
+    "name": "Grado en Administración y Dirección de Empresas",
+    "university_id": "uc3m",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Getafe",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.934,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.191,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.277,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.499,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "ade",
+      "empresa",
+      "negocios",
+      "empresariales",
+      "gestion"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uc3m-periodismo",
+    "name": "Grado en Periodismo",
+    "university_id": "uc3m",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Getafe",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 10.22,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.43,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.562,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "periodista",
+      "comunicacion",
+      "medios"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uc3m-relaciones-internacionales",
+    "name": "Grado en Relaciones Internacionales",
+    "university_id": "uc3m",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Getafe",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 12.413,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.233,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.325,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "diplomacia",
+      "politica",
+      "internacional"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upm-ingenieria-aeroespacial",
+    "name": "Grado en Ingeniería Aeroespacial",
+    "university_id": "upm",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.052,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.051,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.209,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.342,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "aviones",
+      "aeronautica",
+      "espacio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upm-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "upm",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 10.091,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.302,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.437,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upm-arquitectura",
+    "name": "Grado en Fundamentos de la Arquitectura",
+    "university_id": "upm",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Madrid",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 9.499,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.369,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.205,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "arquitecto",
+      "edificios",
+      "diseno"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upm-ingenieria-civil",
+    "name": "Grado en Ingeniería Civil",
+    "university_id": "upm",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 6.67,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 6.524,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 6.598,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 6.433,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "caminos",
+      "obras publicas",
+      "puentes"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upm-ingenieria-industrial",
+    "name": "Grado en Ingeniería en Tecnologías Industriales",
+    "university_id": "upm",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.25,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.271,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.315,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.497,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "industrial",
+      "mecanica",
+      "electrica",
+      "energia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upm-telecomunicacion",
+    "name": "Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación",
+    "university_id": "upm",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Madrid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.973,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.972,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.064,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.978,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "teleco",
+      "redes",
+      "comunicaciones",
+      "electronica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ub-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "ub",
+    "branch": "ciencias_salud",
+    "campus": "Barcelona",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.936,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.136,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.174,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.342,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ub-psicologia",
+    "name": "Grado en Psicología",
+    "university_id": "ub",
+    "branch": "ciencias_salud",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.629,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.728,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.904,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.023,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "psicologo",
+      "mente",
+      "conducta",
+      "terapia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ub-farmacia",
+    "name": "Grado en Farmacia",
+    "university_id": "ub",
+    "branch": "ciencias_salud",
+    "campus": "Barcelona",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.409,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.245,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.312,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.351,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "farmaceutico",
+      "medicamentos"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ub-biologia",
+    "name": "Grado en Biología",
+    "university_id": "ub",
+    "branch": "ciencias",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.421,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.427,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.482,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.599,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "seres vivos",
+      "naturaleza",
+      "laboratorio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ub-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "ub",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.453,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.504,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.264,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.252,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ub-filosofia",
+    "name": "Grado en Filosofía",
+    "university_id": "ub",
+    "branch": "artes_humanidades",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 5.502,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 5.476,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 5.564,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 5.563,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "filosofo",
+      "pensamiento",
+      "etica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ub-estudios-ingleses",
+    "name": "Grado en Estudios Ingleses",
+    "university_id": "ub",
+    "branch": "artes_humanidades",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.072,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.024,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.964,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.83,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "ingles",
+      "filologia",
+      "idiomas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uab-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "uab",
+    "branch": "ciencias_salud",
+    "campus": "Cerdanyola del Vallès",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.25,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.312,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.404,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.424,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uab-biotecnologia",
+    "name": "Grado en Biotecnología",
+    "university_id": "uab",
+    "branch": "ciencias",
+    "campus": "Cerdanyola del Vallès",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.85,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.947,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.843,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.989,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "genetica",
+      "biologia",
+      "laboratorio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uab-criminologia",
+    "name": "Grado en Criminología",
+    "university_id": "uab",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Cerdanyola del Vallès",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.453,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.759,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.8,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.97,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "criminologo",
+      "seguridad",
+      "delito"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uab-periodismo",
+    "name": "Grado en Periodismo",
+    "university_id": "uab",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Cerdanyola del Vallès",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.313,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.221,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.236,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.048,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "periodista",
+      "comunicacion",
+      "medios"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uab-traduccion",
+    "name": "Grado en Traducción e Interpretación",
+    "university_id": "uab",
+    "branch": "artes_humanidades",
+    "campus": "Cerdanyola del Vallès",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.873,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.899,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.977,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.038,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "traductor",
+      "interprete",
+      "idiomas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uab-ciencia-datos",
+    "name": "Grado en Ciencia e Ingeniería de Datos",
+    "university_id": "uab",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Cerdanyola del Vallès",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.918,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.989,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.015,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.009,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "datos",
+      "big data",
+      "inteligencia artificial",
+      "estadistica",
+      "programacion"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upc-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "upc",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.017,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.146,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.977,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.04,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upc-ingenieria-aeroespacial",
+    "name": "Grado en Ingeniería Aeroespacial",
+    "university_id": "upc",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.843,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.651,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.609,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.588,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "aviones",
+      "aeronautica",
+      "espacio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upc-arquitectura",
+    "name": "Grado en Fundamentos de la Arquitectura",
+    "university_id": "upc",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Barcelona",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.437,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.268,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.304,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.259,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "arquitecto",
+      "edificios",
+      "diseno"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upc-telecomunicacion",
+    "name": "Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación",
+    "university_id": "upc",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.789,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.96,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.124,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.105,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "teleco",
+      "redes",
+      "comunicaciones",
+      "electronica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upc-ingenieria-industrial",
+    "name": "Grado en Ingeniería en Tecnologías Industriales",
+    "university_id": "upc",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.515,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.535,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.609,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.722,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "industrial",
+      "mecanica",
+      "electrica",
+      "energia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upc-matematicas",
+    "name": "Grado en Matemáticas",
+    "university_id": "upc",
+    "branch": "ciencias",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.694,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.615,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.677,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.558,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "mates",
+      "algebra",
+      "estadistica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upf-ade",
+    "name": "Grado en Administración y Dirección de Empresas",
+    "university_id": "upf",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.142,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.261,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.23,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.298,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "ade",
+      "empresa",
+      "negocios",
+      "empresariales",
+      "gestion"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upf-economia",
+    "name": "Grado en Economía",
+    "university_id": "upf",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.729,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.872,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.817,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.025,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "economista",
+      "finanzas",
+      "mercados"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upf-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "upf",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.147,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.055,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.153,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.091,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upf-periodismo",
+    "name": "Grado en Periodismo",
+    "university_id": "upf",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.966,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.03,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.805,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.846,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "periodista",
+      "comunicacion",
+      "medios"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upf-traduccion",
+    "name": "Grado en Traducción e Interpretación",
+    "university_id": "upf",
+    "branch": "artes_humanidades",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 10.835,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.771,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.7,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "traductor",
+      "interprete",
+      "idiomas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upf-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "upf",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Barcelona",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.771,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.828,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.891,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.033,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uv-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "uv",
+    "branch": "ciencias_salud",
+    "campus": "Valencia",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.707,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.513,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.493,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.276,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uv-enfermeria",
+    "name": "Grado en Enfermería",
+    "university_id": "uv",
+    "branch": "ciencias_salud",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.543,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.739,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.967,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.108,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "enfermero",
+      "cuidados",
+      "sanidad",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uv-fisioterapia",
+    "name": "Grado en Fisioterapia",
+    "university_id": "uv",
+    "branch": "ciencias_salud",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.929,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.872,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.982,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.904,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "fisio",
+      "rehabilitacion",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uv-psicologia",
+    "name": "Grado en Psicología",
+    "university_id": "uv",
+    "branch": "ciencias_salud",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.428,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.725,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.734,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.899,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "psicologo",
+      "mente",
+      "conducta",
+      "terapia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uv-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "uv",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 8.72,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.667,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.679,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uv-magisterio",
+    "name": "Grado en Maestro en Educación Primaria",
+    "university_id": "uv",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.494,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.684,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.655,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.867,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "magisterio",
+      "maestro",
+      "profesor",
+      "colegio",
+      "ensenanza"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upv-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "upv",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.745,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.549,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.661,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.481,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upv-arquitectura",
+    "name": "Grado en Fundamentos de la Arquitectura",
+    "university_id": "upv",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Valencia",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.005,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.976,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.3,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.383,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "arquitecto",
+      "edificios",
+      "diseno"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upv-ingenieria-aeroespacial",
+    "name": "Grado en Ingeniería Aeroespacial",
+    "university_id": "upv",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.205,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.232,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.442,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.571,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "aviones",
+      "aeronautica",
+      "espacio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upv-telecomunicacion",
+    "name": "Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación",
+    "university_id": "upv",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.31,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.494,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.53,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.668,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "teleco",
+      "redes",
+      "comunicaciones",
+      "electronica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upv-ingenieria-industrial",
+    "name": "Grado en Ingeniería en Tecnologías Industriales",
+    "university_id": "upv",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.297,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.337,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.251,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.237,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "industrial",
+      "mecanica",
+      "electrica",
+      "energia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "upv-bellas-artes",
+    "name": "Grado en Bellas Artes",
+    "university_id": "upv",
+    "branch": "artes_humanidades",
+    "campus": "Valencia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.151,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.133,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.349,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.285,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "arte",
+      "pintura",
+      "escultura",
+      "dibujo"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "us-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "us",
+    "branch": "ciencias_salud",
+    "campus": "Sevilla",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.117,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.037,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.14,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.071,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "us-enfermeria",
+    "name": "Grado en Enfermería",
+    "university_id": "us",
+    "branch": "ciencias_salud",
+    "campus": "Sevilla",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.462,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.242,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.28,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.158,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "enfermero",
+      "cuidados",
+      "sanidad",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "us-fisioterapia",
+    "name": "Grado en Fisioterapia",
+    "university_id": "us",
+    "branch": "ciencias_salud",
+    "campus": "Sevilla",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 11.039,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.159,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.168,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "fisio",
+      "rehabilitacion",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "us-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "us",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Sevilla",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 8.248,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.479,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.543,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "us-ade",
+    "name": "Grado en Administración y Dirección de Empresas",
+    "university_id": "us",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Sevilla",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.88,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.931,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.201,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.358,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "ade",
+      "empresa",
+      "negocios",
+      "empresariales",
+      "gestion"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "us-arquitectura",
+    "name": "Grado en Fundamentos de la Arquitectura",
+    "university_id": "us",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Sevilla",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.583,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.651,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.504,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.361,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "arquitecto",
+      "edificios",
+      "diseno"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "us-historia-del-arte",
+    "name": "Grado en Historia del Arte",
+    "university_id": "us",
+    "branch": "artes_humanidades",
+    "campus": "Sevilla",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": true,
+    "cut_offs": [],
+    "keywords": [
+      "arte",
+      "museos",
+      "patrimonio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ugr-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "ugr",
+    "branch": "ciencias_salud",
+    "campus": "Granada",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.968,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.912,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.85,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.893,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ugr-traduccion",
+    "name": "Grado en Traducción e Interpretación",
+    "university_id": "ugr",
+    "branch": "artes_humanidades",
+    "campus": "Granada",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.32,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.43,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.418,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.4,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "traductor",
+      "interprete",
+      "idiomas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ugr-psicologia",
+    "name": "Grado en Psicología",
+    "university_id": "ugr",
+    "branch": "ciencias_salud",
+    "campus": "Granada",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.134,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.097,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.859,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.864,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "psicologo",
+      "mente",
+      "conducta",
+      "terapia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ugr-farmacia",
+    "name": "Grado en Farmacia",
+    "university_id": "ugr",
+    "branch": "ciencias_salud",
+    "campus": "Granada",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.665,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.792,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.966,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.148,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "farmaceutico",
+      "medicamentos"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ugr-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "ugr",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Granada",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.04,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.962,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.812,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.819,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ugr-matematicas",
+    "name": "Grado en Matemáticas",
+    "university_id": "ugr",
+    "branch": "ciencias",
+    "campus": "Granada",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.595,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.545,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.411,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.247,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "mates",
+      "algebra",
+      "estadistica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ugr-filosofia",
+    "name": "Grado en Filosofía",
+    "university_id": "ugr",
+    "branch": "artes_humanidades",
+    "campus": "Granada",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 5.78,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 5.743,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 5.585,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 5.525,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "filosofo",
+      "pensamiento",
+      "etica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uma-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "uma",
+    "branch": "ciencias_salud",
+    "campus": "Málaga",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 12.85,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.808,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.904,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uma-enfermeria",
+    "name": "Grado en Enfermería",
+    "university_id": "uma",
+    "branch": "ciencias_salud",
+    "campus": "Málaga",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.765,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.666,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.628,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.596,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "enfermero",
+      "cuidados",
+      "sanidad",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uma-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "uma",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Málaga",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.633,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.726,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.81,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.951,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uma-ade",
+    "name": "Grado en Administración y Dirección de Empresas",
+    "university_id": "uma",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Málaga",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.169,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.212,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.461,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.666,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "ade",
+      "empresa",
+      "negocios",
+      "empresariales",
+      "gestion"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uma-periodismo",
+    "name": "Grado en Periodismo",
+    "university_id": "uma",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Málaga",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.587,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.553,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.697,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.794,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "periodista",
+      "comunicacion",
+      "medios"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usal-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "usal",
+    "branch": "ciencias_salud",
+    "campus": "Salamanca",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.487,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.503,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.735,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.781,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usal-biotecnologia",
+    "name": "Grado en Biotecnología",
+    "university_id": "usal",
+    "branch": "ciencias",
+    "campus": "Salamanca",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.234,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.322,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.396,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.403,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "genetica",
+      "biologia",
+      "laboratorio"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usal-traduccion",
+    "name": "Grado en Traducción e Interpretación",
+    "university_id": "usal",
+    "branch": "artes_humanidades",
+    "campus": "Salamanca",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.246,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.131,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.123,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.174,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "traductor",
+      "interprete",
+      "idiomas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usal-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "usal",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Salamanca",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.631,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.629,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.372,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.321,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usal-filosofia",
+    "name": "Grado en Filosofía",
+    "university_id": "usal",
+    "branch": "artes_humanidades",
+    "campus": "Salamanca",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 5.86,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 6.024,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 6.025,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 6.085,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "filosofo",
+      "pensamiento",
+      "etica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usal-estudios-ingleses",
+    "name": "Grado en Estudios Ingleses",
+    "university_id": "usal",
+    "branch": "artes_humanidades",
+    "campus": "Salamanca",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.836,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.678,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.844,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.724,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "ingles",
+      "filologia",
+      "idiomas"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uva-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "uva",
+    "branch": "ciencias_salud",
+    "campus": "Valladolid",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 12.903,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.037,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.96,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uva-enfermeria",
+    "name": "Grado en Enfermería",
+    "university_id": "uva",
+    "branch": "ciencias_salud",
+    "campus": "Valladolid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.425,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.501,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.536,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.577,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "enfermero",
+      "cuidados",
+      "sanidad",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uva-arquitectura",
+    "name": "Grado en Fundamentos de la Arquitectura",
+    "university_id": "uva",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Valladolid",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.022,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.263,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.343,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.548,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "arquitecto",
+      "edificios",
+      "diseno"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uva-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "uva",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Valladolid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 10.584,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.716,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.937,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uva-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "uva",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Valladolid",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.826,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.999,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.056,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.002,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "unizar-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "unizar",
+    "branch": "ciencias_salud",
+    "campus": "Zaragoza",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.505,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.403,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.421,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.503,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "unizar-veterinaria",
+    "name": "Grado en Veterinaria",
+    "university_id": "unizar",
+    "branch": "ciencias_salud",
+    "campus": "Zaragoza",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.546,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.404,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.478,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.347,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "animales",
+      "veterinario"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "unizar-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "unizar",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Zaragoza",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.111,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.101,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.166,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.191,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "unizar-ingenieria-industrial",
+    "name": "Grado en Ingeniería en Tecnologías Industriales",
+    "university_id": "unizar",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Zaragoza",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.641,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.615,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.625,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.561,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "industrial",
+      "mecanica",
+      "electrica",
+      "energia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "unizar-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "unizar",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Zaragoza",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.826,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.057,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.14,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.354,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ehu-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "ehu",
+    "branch": "ciencias_salud",
+    "campus": "Leioa",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.347,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 12.587,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 12.658,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.705,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ehu-enfermeria",
+    "name": "Grado en Enfermería",
+    "university_id": "ehu",
+    "branch": "ciencias_salud",
+    "campus": "Leioa",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.707,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.694,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.684,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.578,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "enfermero",
+      "cuidados",
+      "sanidad",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ehu-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "ehu",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Leioa",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 11.239,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.182,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.086,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ehu-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "ehu",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Leioa",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.127,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.186,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.456,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.568,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "ehu-filosofia",
+    "name": "Grado en Filosofía",
+    "university_id": "ehu",
+    "branch": "artes_humanidades",
+    "campus": "Leioa",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 5.719,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 5.519,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 5.653,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 5.575,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "filosofo",
+      "pensamiento",
+      "etica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usc-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "usc",
+    "branch": "ciencias_salud",
+    "campus": "Santiago de Compostela",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 12.985,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.062,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.204,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.271,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usc-farmacia",
+    "name": "Grado en Farmacia",
+    "university_id": "usc",
+    "branch": "ciencias_salud",
+    "campus": "Santiago de Compostela",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 10.571,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.391,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.36,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "farmaceutico",
+      "medicamentos"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usc-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "usc",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Santiago de Compostela",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.554,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.638,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.711,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.724,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usc-periodismo",
+    "name": "Grado en Periodismo",
+    "university_id": "usc",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Santiago de Compostela",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.694,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.609,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.529,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.583,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "periodista",
+      "comunicacion",
+      "medios"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "usc-filosofia",
+    "name": "Grado en Filosofía",
+    "university_id": "usc",
+    "branch": "artes_humanidades",
+    "campus": "Santiago de Compostela",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": true,
+    "cut_offs": [],
+    "keywords": [
+      "filosofo",
+      "pensamiento",
+      "etica"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "um-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "um",
+    "branch": "ciencias_salud",
+    "campus": "Murcia",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2023,
+        "score": 13.192,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.269,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.156,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "um-veterinaria",
+    "name": "Grado en Veterinaria",
+    "university_id": "um",
+    "branch": "ciencias_salud",
+    "campus": "Murcia",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 11.807,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 11.704,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 11.694,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 11.768,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "animales",
+      "veterinario"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "um-odontologia",
+    "name": "Grado en Odontología",
+    "university_id": "um",
+    "branch": "ciencias_salud",
+    "campus": "Murcia",
+    "duration_years": 5,
+    "credits_ects": 300,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.073,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.013,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.005,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 12.898,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "dentista",
+      "dental"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "um-criminologia",
+    "name": "Grado en Criminología",
+    "university_id": "um",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Murcia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.939,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.069,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.261,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.383,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "criminologo",
+      "seguridad",
+      "delito"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "um-magisterio",
+    "name": "Grado en Maestro en Educación Primaria",
+    "university_id": "um",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Murcia",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.764,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.707,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.658,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.591,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "magisterio",
+      "maestro",
+      "profesor",
+      "colegio",
+      "ensenanza"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uniovi-medicina",
+    "name": "Grado en Medicina",
+    "university_id": "uniovi",
+    "branch": "ciencias_salud",
+    "campus": "Oviedo",
+    "duration_years": 6,
+    "credits_ects": 360,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 13.502,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 13.28,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 13.232,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 13.084,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "medico",
+      "sanidad",
+      "hospital",
+      "salud"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uniovi-ingenieria-informatica",
+    "name": "Grado en Ingeniería Informática",
+    "university_id": "uniovi",
+    "branch": "ingenieria_arquitectura",
+    "campus": "Oviedo",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 10.216,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 10.125,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 10.31,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 10.349,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "informatica",
+      "programacion",
+      "software",
+      "computacion",
+      "ordenadores"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uniovi-derecho",
+    "name": "Grado en Derecho",
+    "university_id": "uniovi",
+    "branch": "ciencias_sociales_juridicas",
+    "campus": "Oviedo",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 8.393,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 8.602,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 8.863,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 8.914,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "abogado",
+      "leyes",
+      "juridico"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uniovi-historia",
+    "name": "Grado en Historia",
+    "university_id": "uniovi",
+    "branch": "artes_humanidades",
+    "campus": "Oviedo",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": true,
+    "cut_offs": [],
+    "keywords": [
+      "historiador",
+      "pasado"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "uniovi-estudios-ingleses",
+    "name": "Grado en Estudios Ingleses",
+    "university_id": "uniovi",
+    "branch": "artes_humanidades",
+    "campus": "Oviedo",
+    "duration_years": 4,
+    "credits_ects": 240,
+    "admission_without_cutoff": false,
+    "cut_offs": [
+      {
+        "year": 2022,
+        "score": 9.127,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2023,
+        "score": 9.225,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2024,
+        "score": 9.288,
+        "round": "ordinaria"
+      },
+      {
+        "year": 2025,
+        "score": 9.259,
+        "round": "ordinaria"
+      }
+    ],
+    "keywords": [
+      "ingles",
+      "filologia",
+      "idiomas"
+    ],
+    "source": "sample"
+  }
+]

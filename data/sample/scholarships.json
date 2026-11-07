@@ -1,0 +1,348 @@
+[
+  {
+    "id": "sch-general-ministerio",
+    "name": "Beca general del Ministerio (modelo)",
+    "provider": "Ministerio de educación (modelo genérico)",
+    "scope": "national",
+    "regions": [],
+    "levels": [
+      "bachillerato",
+      "fp_grado_medio",
+      "fp_grado_superior",
+      "grado",
+      "master"
+    ],
+    "max_family_income": 40000,
+    "min_grade": 5.0,
+    "amount_min_eur": 300,
+    "amount_max_eur": 6000,
+    "description": "Modelo de la beca general estatal: componente de matrícula, cuantía fija ligada a la renta y componente variable.",
+    "requirements": [
+      "Umbral de renta familiar",
+      "Rendimiento académico mínimo",
+      "Nacionalidad o residencia"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-excelencia-estatal",
+    "name": "Ayuda estatal a la excelencia académica (modelo)",
+    "provider": "Ministerio de educación (modelo genérico)",
+    "scope": "national",
+    "regions": [],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": null,
+    "min_grade": 8.5,
+    "amount_min_eur": 1000,
+    "amount_max_eur": 2500,
+    "description": "Modelo de premio o ayuda por expediente sobresaliente, sin requisito de renta.",
+    "requirements": [
+      "Nota media alta"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-colaboracion",
+    "name": "Beca de colaboración en departamentos (modelo)",
+    "provider": "Ministerio de educación (modelo genérico)",
+    "scope": "national",
+    "regions": [],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": 40000,
+    "min_grade": 7.0,
+    "amount_min_eur": 2000,
+    "amount_max_eur": 2000,
+    "description": "Modelo de beca para colaborar en un departamento universitario durante el último curso.",
+    "requirements": [
+      "Último curso de grado o primer curso de máster",
+      "Nota media mínima"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-neae",
+    "name": "Ayuda para alumnado con necesidad específica de apoyo educativo (modelo)",
+    "provider": "Ministerio de educación (modelo genérico)",
+    "scope": "national",
+    "regions": [],
+    "levels": [
+      "bachillerato",
+      "fp_grado_medio",
+      "fp_grado_superior"
+    ],
+    "max_family_income": null,
+    "min_grade": null,
+    "amount_min_eur": 400,
+    "amount_max_eur": 1500,
+    "description": "Modelo de ayuda para alumnado con necesidad específica de apoyo educativo.",
+    "requirements": [
+      "Acreditación de la necesidad de apoyo"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-movilidad-internacional",
+    "name": "Complemento de movilidad internacional (modelo)",
+    "provider": "Programa europeo de movilidad (modelo genérico)",
+    "scope": "national",
+    "regions": [],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": null,
+    "min_grade": 6.0,
+    "amount_min_eur": 1500,
+    "amount_max_eur": 4500,
+    "description": "Modelo de complemento para estancias de estudio en otra universidad europea.",
+    "requirements": [
+      "Plaza de movilidad concedida por la universidad"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-fp",
+    "name": "Ayuda para estudiantes de Formación Profesional (modelo)",
+    "provider": "Ministerio de educación (modelo genérico)",
+    "scope": "national",
+    "regions": [],
+    "levels": [
+      "fp_grado_medio",
+      "fp_grado_superior"
+    ],
+    "max_family_income": 30000,
+    "min_grade": 5.0,
+    "amount_min_eur": 300,
+    "amount_max_eur": 3000,
+    "description": "Modelo de ayuda para ciclos formativos de grado medio y superior.",
+    "requirements": [
+      "Umbral de renta familiar"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-madrid-excelencia",
+    "name": "Beca regional de excelencia (modelo, Madrid)",
+    "provider": "Comunidad de Madrid (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Madrid"
+    ],
+    "levels": [
+      "grado"
+    ],
+    "max_family_income": null,
+    "min_grade": 9.0,
+    "amount_min_eur": 2000,
+    "amount_max_eur": 3000,
+    "description": "Modelo de beca regional para estudiantes con calificación de acceso muy alta.",
+    "requirements": [
+      "Residencia en la comunidad"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-cataluna-matricula",
+    "name": "Reducción de matrícula por renta (modelo, Cataluña)",
+    "provider": "Generalitat de Catalunya (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Cataluña"
+    ],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": 32000,
+    "min_grade": 5.0,
+    "amount_min_eur": 200,
+    "amount_max_eur": 1800,
+    "description": "Modelo de bonificación parcial del precio de matrícula según tramos de renta.",
+    "requirements": [
+      "Residencia o estudios en la comunidad"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-valencia-matricula",
+    "name": "Beca de matrícula autonómica (modelo, Comunidad Valenciana)",
+    "provider": "Generalitat Valenciana (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Comunidad Valenciana"
+    ],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": 26000,
+    "min_grade": 5.0,
+    "amount_min_eur": 300,
+    "amount_max_eur": 1500,
+    "description": "Modelo de ayuda autonómica que cubre la matrícula a quien no obtiene la beca general.",
+    "requirements": [
+      "Umbral de renta familiar"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-andalucia-bonificacion",
+    "name": "Bonificación de créditos aprobados (modelo, Andalucía)",
+    "provider": "Junta de Andalucía (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Andalucía"
+    ],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": null,
+    "min_grade": 5.0,
+    "amount_min_eur": 100,
+    "amount_max_eur": 1200,
+    "description": "Modelo de bonificación del precio de los créditos aprobados en primera matrícula.",
+    "requirements": [
+      "Créditos aprobados en el curso anterior"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-pais-vasco",
+    "name": "Beca autonómica de estudios postobligatorios (modelo, País Vasco)",
+    "provider": "Gobierno Vasco (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "País Vasco"
+    ],
+    "levels": [
+      "bachillerato",
+      "fp_grado_superior",
+      "grado",
+      "master"
+    ],
+    "max_family_income": 36000,
+    "min_grade": 5.0,
+    "amount_min_eur": 300,
+    "amount_max_eur": 4000,
+    "description": "Modelo de convocatoria autonómica propia con componentes de matrícula y residencia.",
+    "requirements": [
+      "Residencia en la comunidad"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-galicia",
+    "name": "Ayuda autonómica de matrícula (modelo, Galicia)",
+    "provider": "Xunta de Galicia (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Galicia"
+    ],
+    "levels": [
+      "grado"
+    ],
+    "max_family_income": 22000,
+    "min_grade": 5.0,
+    "amount_min_eur": 300,
+    "amount_max_eur": 1200,
+    "description": "Modelo de ayuda de matrícula para rentas bajas.",
+    "requirements": [
+      "Umbral de renta familiar"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-castilla-leon",
+    "name": "Ayuda universitaria autonómica (modelo, Castilla y León)",
+    "provider": "Junta de Castilla y León (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Castilla y León"
+    ],
+    "levels": [
+      "grado"
+    ],
+    "max_family_income": 28000,
+    "min_grade": 5.5,
+    "amount_min_eur": 300,
+    "amount_max_eur": 1500,
+    "description": "Modelo de ayuda complementaria a la beca general.",
+    "requirements": [
+      "Residencia en la comunidad"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-aragon",
+    "name": "Beca complementaria de matrícula (modelo, Aragón)",
+    "provider": "Gobierno de Aragón (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Aragón"
+    ],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": 26000,
+    "min_grade": 5.0,
+    "amount_min_eur": 300,
+    "amount_max_eur": 1400,
+    "description": "Modelo de ayuda de matrícula para quien queda fuera de la beca general.",
+    "requirements": [
+      "Umbral de renta familiar"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-murcia",
+    "name": "Ayuda al estudio universitario (modelo, Murcia)",
+    "provider": "Región de Murcia (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Murcia"
+    ],
+    "levels": [
+      "grado"
+    ],
+    "max_family_income": 20000,
+    "min_grade": 6.0,
+    "amount_min_eur": 300,
+    "amount_max_eur": 1000,
+    "description": "Modelo de ayuda regional para rentas bajas con rendimiento mínimo.",
+    "requirements": [
+      "Umbral de renta familiar",
+      "Nota media mínima"
+    ],
+    "source": "sample"
+  },
+  {
+    "id": "sch-asturias",
+    "name": "Beca regional de residencia (modelo, Asturias)",
+    "provider": "Principado de Asturias (modelo genérico)",
+    "scope": "regional",
+    "regions": [
+      "Asturias"
+    ],
+    "levels": [
+      "grado",
+      "master"
+    ],
+    "max_family_income": 24000,
+    "min_grade": 5.0,
+    "amount_min_eur": 800,
+    "amount_max_eur": 2500,
+    "description": "Modelo de ayuda para estudiantes que se desplazan fuera de su domicilio familiar.",
+    "requirements": [
+      "Residencia fuera del domicilio familiar"
+    ],
+    "source": "sample"
+  }
+]

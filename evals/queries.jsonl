@@ -1,0 +1,22 @@
+{"query": "¿Dónde puedo estudiar informática en Madrid?", "expected": ["ucm-ingenieria-informatica", "upm-ingenieria-informatica", "uc3m-ingenieria-informatica"]}
+{"query": "medicina en Sevilla", "expected": ["us-medicina"]}
+{"query": "Quiero hacer ADE en Barcelona", "expected": ["upf-ade"]}
+{"query": "ingeniería aeroespacial", "expected": ["upm-ingenieria-aeroespacial", "uc3m-ingenieria-aeroespacial", "upc-ingenieria-aeroespacial", "upv-ingenieria-aeroespacial"]}
+{"query": "me gustan los aviones, ¿qué carrera hago?", "expected": ["upm-ingenieria-aeroespacial", "uc3m-ingenieria-aeroespacial", "upc-ingenieria-aeroespacial"]}
+{"query": "teleco en Valencia", "expected": ["upv-telecomunicacion"]}
+{"query": "magisterio de primaria", "expected": ["uv-magisterio", "um-magisterio"]}
+{"query": "quiero ser dentista", "expected": ["um-odontologia"]}
+{"query": "veterinaria en Zaragoza", "expected": ["unizar-veterinaria"]}
+{"query": "psicología en Granada", "expected": ["ugr-psicologia"]}
+{"query": "ciencia de datos e inteligencia artificial", "expected": ["uc3m-ciencia-datos", "uab-ciencia-datos"]}
+{"query": "relaciones internacionales y diplomacia", "expected": ["uc3m-relaciones-internacionales"]}
+{"query": "filología inglesa", "expected": ["ub-estudios-ingleses", "usal-estudios-ingleses", "uniovi-estudios-ingleses"]}
+{"query": "traducción e interpretación en Salamanca", "expected": ["usal-traduccion"]}
+{"query": "derecho en Santiago de Compostela", "expected": ["usc-derecho"]}
+{"query": "fisioterapia en Valencia", "expected": ["uv-fisioterapia"]}
+{"query": "biotecnología en Madrid", "expected": ["uam-biotecnologia"]}
+{"query": "enfermería en el País Vasco", "expected": ["ehu-enfermeria"]}
+{"query": "historia del arte", "expected": ["ucm-historia-del-arte", "us-historia-del-arte"]}
+{"query": "criminología", "expected": ["uab-criminologia", "um-criminologia"]}
+{"query": "arquitectura en Valladolid", "expected": ["uva-arquitectura"]}
+{"query": "periodismo en Málaga", "expected": ["uma-periodismo"]}

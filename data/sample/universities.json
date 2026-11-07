@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ucm",
+    "name": "Universidad Complutense de Madrid",
+    "short_name": "UCM",
+    "city": "Madrid",
+    "region": "Madrid",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "uam",
+    "name": "Universidad Autónoma de Madrid",
+    "short_name": "UAM",
+    "city": "Madrid",
+    "region": "Madrid",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "uc3m",
+    "name": "Universidad Carlos III de Madrid",
+    "short_name": "UC3M",
+    "city": "Getafe",
+    "region": "Madrid",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "upm",
+    "name": "Universidad Politécnica de Madrid",
+    "short_name": "UPM",
+    "city": "Madrid",
+    "region": "Madrid",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "ub",
+    "name": "Universitat de Barcelona",
+    "short_name": "UB",
+    "city": "Barcelona",
+    "region": "Cataluña",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "uab",
+    "name": "Universitat Autònoma de Barcelona",
+    "short_name": "UAB",
+    "city": "Cerdanyola del Vallès",
+    "region": "Cataluña",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "upc",
+    "name": "Universitat Politècnica de Catalunya",
+    "short_name": "UPC",
+    "city": "Barcelona",
+    "region": "Cataluña",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "upf",
+    "name": "Universitat Pompeu Fabra",
+    "short_name": "UPF",
+    "city": "Barcelona",
+    "region": "Cataluña",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "uv",
+    "name": "Universitat de València",
+    "short_name": "UV",
+    "city": "Valencia",
+    "region": "Comunidad Valenciana",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "upv",
+    "name": "Universitat Politècnica de València",
+    "short_name": "UPV",
+    "city": "Valencia",
+    "region": "Comunidad Valenciana",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "us",
+    "name": "Universidad de Sevilla",
+    "short_name": "US",
+    "city": "Sevilla",
+    "region": "Andalucía",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "ugr",
+    "name": "Universidad de Granada",
+    "short_name": "UGR",
+    "city": "Granada",
+    "region": "Andalucía",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "uma",
+    "name": "Universidad de Málaga",
+    "short_name": "UMA",
+    "city": "Málaga",
+    "region": "Andalucía",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "usal",
+    "name": "Universidad de Salamanca",
+    "short_name": "USAL",
+    "city": "Salamanca",
+    "region": "Castilla y León",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "uva",
+    "name": "Universidad de Valladolid",
+    "short_name": "UVa",
+    "city": "Valladolid",
+    "region": "Castilla y León",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "unizar",
+    "name": "Universidad de Zaragoza",
+    "short_name": "UNIZAR",
+    "city": "Zaragoza",
+    "region": "Aragón",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "ehu",
+    "name": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "short_name": "UPV/EHU",
+    "city": "Leioa",
+    "region": "País Vasco",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "usc",
+    "name": "Universidade de Santiago de Compostela",
+    "short_name": "USC",
+    "city": "Santiago de Compostela",
+    "region": "Galicia",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "um",
+    "name": "Universidad de Murcia",
+    "short_name": "UM",
+    "city": "Murcia",
+    "region": "Murcia",
+    "ownership": "public",
+    "source": "sample"
+  },
+  {
+    "id": "uniovi",
+    "name": "Universidad de Oviedo",
+    "short_name": "UNIOVI",
+    "city": "Oviedo",
+    "region": "Asturias",
+    "ownership": "public",
+    "source": "sample"
+  }
+]
